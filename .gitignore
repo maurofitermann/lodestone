@@ -3,3 +3,9 @@ node_modules/
 package-lock.json
 .cache
 README.md
+content/feed/
+content/fourthpost/
+content/firstpost.md
+content/secondpost.md
+content/thirdpost.md
+content/fifthpost.md
