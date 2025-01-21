@@ -1,8 +1,3 @@
-_site/
-node_modules/
-package-lock.json
-.cache
-README.md
 content/feed/
 content/blog/fourthpost/
 content/blog/firstpost.md
