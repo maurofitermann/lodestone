@@ -2,47 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://maurofitermann.github.io/lodestone/blog/firstpost/</loc>
-		<lastmod>2018-05-01</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://maurofitermann.github.io/lodestone/blog/secondpost/</loc>
-		<lastmod>2018-07-04</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://maurofitermann.github.io/lodestone/blog/thirdpost/</loc>
-		<lastmod>2018-08-24</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://maurofitermann.github.io/lodestone/blog/fourthpost/</loc>
-		<lastmod>2018-09-30</lastmod>
-	</url>
-	
-	<url>
 		<loc>https://maurofitermann.github.io/lodestone/about/</loc>
-		<lastmod>2025-01-21</lastmod>
+		<lastmod>2025-01-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://maurofitermann.github.io/lodestone/blog/</loc>
-		<lastmod>2025-01-21</lastmod>
+		<lastmod>2025-01-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://maurofitermann.github.io/lodestone/</loc>
-		<lastmod>2025-01-21</lastmod>
+		<lastmod>2025-01-22</lastmod>
 	</url>
 	
 	<url>
 		<loc>https://maurofitermann.github.io/lodestone/tags/</loc>
-		<lastmod>2025-01-21</lastmod>
-	</url>
-	
-	<url>
-		<loc>https://maurofitermann.github.io/lodestone/feed/feed.xml</loc>
-		<lastmod>2025-01-21</lastmod>
+		<lastmod>2025-01-22</lastmod>
 	</url>
 </urlset>
